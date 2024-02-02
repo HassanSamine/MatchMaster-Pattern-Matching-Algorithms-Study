@@ -1,0 +1,36 @@
+
+Pattern : 1 word
+Sunday:     3861.35 microseconds
+Rabin-Karp: 4568.06 microseconds
+
+Pattern : 300 word
+Sunday:     1004.05 microseconds
+Rabin-Karp: 5109.8 microseconds
+
+Pattern : 900 word
+Sunday:     2087.2 microseconds
+Rabin-Karp: 4572.58 microseconds
+
+Pattern : 1500 word
+Sunday:     2275.82 microseconds
+Rabin-Karp: 4868.72 microseconds
+
+Pattern : 3500 word
+Sunday:     13034.4 microseconds
+Rabin-Karp: 12820 microseconds
+
+
+Pattern : 7000 word
+Sunday:     12370.7 microseconds
+Rabin-Karp: 9411.37 microseconds
+
+Pattern : 15000 word
+Sunday:     19097.7 microseconds
+Rabin-Karp: 8537.98 microseconds
+
+We conclude that Rabin-Karp algorithm is twice as fast as Sunday algorithm 
+
+
+
+
+

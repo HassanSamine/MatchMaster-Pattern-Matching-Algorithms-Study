@@ -1,0 +1,9 @@
+Pattern : 1 word
+Gusfield-Z: 7074.53 microseconds
+Sunday:     3706.87 microseconds
+
+Pattern : 100 word
+Gusfield-Z: 8566.07 microseconds
+Sunday:     1680.59 microseconds
+
+We conclude that Sunday is twice faster than Gusfield algorithm 

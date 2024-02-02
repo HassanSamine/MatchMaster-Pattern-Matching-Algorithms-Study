@@ -1,0 +1,36 @@
+Pattern: 1 word
+KMP:        6713.11 microseconds
+Rabin-Karp: 4590.12 microseconds
+
+Pattern: 100 word
+KMP:        6719.58 microseconds
+Rabin-Karp: 5100.96 microseconds
+
+Pattern:400 word
+KMP:        7415.58 microseconds
+Rabin-Karp: 5100.96 microseconds
+
+Pattern:6000 word
+KMP:        8141.95 microseconds
+Rabin-Karp: 6634.56 microseconds
+
+Pattern: 8500 word
+KMP:        9117.98 microseconds
+Rabin-Karp: 7339.72 microseconds
+
+Pattern: 11500 word
+KMP:        10477.9 microseconds
+Rabin-Karp: 7894.4 microseconds
+
+Pattern: 15000 word
+KMP:        11649.5 microseconds
+Rabin-Karp: 8547.23 microseconds
+
+We conclude that KMP cannot be twice faster than Rabin-Karp
+
+
+
+
+
+
+
