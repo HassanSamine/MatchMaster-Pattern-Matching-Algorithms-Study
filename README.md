@@ -8,7 +8,7 @@ Pattern matching is a fundamental task in computer science and finds application
 # Algorithms Included
 The following pattern matching algorithms are included in this study:
 
-Brute Force
+Brute Force/n
 Knuth-Morris-Pratt (KMP) Algorithm
 Finite State Machine Algorithm
 Rabin-Karp Algorithm
